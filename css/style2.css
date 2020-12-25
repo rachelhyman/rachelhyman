@@ -40,7 +40,7 @@ article::after {
   color: #0068FF;
   font-size: 44px;
 } */
-hr {border-bottom: 3px solid #0068FF;}
+hr {border-bottom: 3px solid #A360D2;}
 
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
 .meta a:hover {color: #333;}
